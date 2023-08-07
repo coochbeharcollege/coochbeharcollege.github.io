@@ -1,8 +1,6 @@
 # coochbeharcollege.github.io
 # Welcome to Coochbehar College GitHub Repository
 
-![Coochbehar College Logo](college_logo.png)
-
 ## About Us
 
 Welcome to the official GitHub repository of Coochbehar College! We're excited to have you here in our virtual space dedicated to showcasing our technical and coding endeavors.
