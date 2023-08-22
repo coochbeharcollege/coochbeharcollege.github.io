@@ -4,7 +4,7 @@ Welcome to the Coobehar College GitHub repository! We're excited to have you con
 
 ## Code of Conduct
 
-Before contributing, please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We are committed to fostering an inclusive and respectful environment for all contributors.
+Before contributing, please read and adhere to our [Code of Conduct](codeofconduct). We are committed to fostering an inclusive and respectful environment for all contributors.
 
 ## Getting Started
 
