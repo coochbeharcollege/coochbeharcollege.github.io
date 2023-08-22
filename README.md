@@ -19,7 +19,7 @@ Coochbehar College has a proud history of academic excellence and is committed t
 
 1. Explore our [Projects](projects) to see what we're working on.
 2. Check out our [Tutorials](tutorials) section for learning resources.
-3. If you'd like to contribute, please read our [Contribution Guidelines](CONTRIBUTING.md).
+3. If you'd like to contribute, please read our [Contribution Guidelines](contributing).
 4. Join our coding community by following us on [Telegram](https://t.me/CoochbeharCollege).
 5. Stay updated with our latest announcements by watching this repository.
 
