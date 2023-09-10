@@ -1,5 +1,5 @@
 # coochbeharcollege.github.io
-# Welcome to Coochbehar College GitHub Repository
+# Welcome to Coochbehar College (CS Dept.) GitHub Repository
 
 ## About Us
 
@@ -26,5 +26,6 @@ Coochbehar College has a proud history of academic excellence and is committed t
 We're excited to have you as part of the Coochbehar College coding community. Let's code, collaborate, and create together!
 
 For inquiries, please contact: 
+Dipankar Kumar Roy (Alumni) Telegram: [@dipankarkumarroy](https://t.me/dipankarkumarroy).
 
 ![Coochbehar College Campus](campus_image.jpg)
